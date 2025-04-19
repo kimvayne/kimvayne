@@ -11,67 +11,13 @@
 </div>
 
 ---
-<table>
-  <tr>
-    <th align="left">moolmeow.com</th>
-    <th align="left">kimvayne.xyz</th>
-  </tr>
-  <tr>
-    <td>
+# Overview
 
-**Frontend & Backend**  
-- Golang  
-- TypeScript  
-- Next.js  
-- Zustand  
-- PASETO  
-- gRPC  
-- Google OAuth  
-- Tailwind CSS  
-
-**Infrastructure & Networking**  
-- MikroTik Router  
-- Cloudflare  
-- Vagrant  
-
-**Database & Caching**  
-- MySQL  
-- Redis  
-- etcd  
-
-**CI/CD & DevOps**  
-- Jenkins  
-- ArgoCD  
-- Docker Registry  
-- Helm  
-- Ansible  
-
-**Monitoring & Service Mesh**  
-- Grafana  
-- Prometheus  
-- Loki  
-- Istio  
-
-**Domain Management**  
-- Gabia  
-
-</td>
-    <td>
-
-**Cloud & Infrastructure**  
-- Oracle Cloud  
-- Nginx  
-- Shell Script  
-
-**Database**  
-- MariaDB  
-
-**Networking**  
-- Cloudflare  
-
-**Domain Management**  
-- Gabia  
-
-</td>
-  </tr>
-</table>
+| moolmeow.com | kimvayne.xyz |
+|--------------|--------------|
+| **Frontend & Backend**: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS | **Cloud & Infra**: Oracle Cloud, Nginx, Shell Script |
+| **Infra & Networking**: MikroTik Router, Cloudflare, Vagrant | **Database**: MariaDB |
+| **Database & Caching**: MySQL, Redis, etcd | **Networking**: Cloudflare |
+| **CI/CD & DevOps**: Jenkins, ArgoCD, Docker Registry, Helm, Ansible | **Domain**: Gabia |
+| **Monitoring & Service Mesh**: Grafana, Prometheus, Loki, Istio | |
+| **Domain**: Gabia | |
