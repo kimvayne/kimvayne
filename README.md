@@ -10,7 +10,7 @@
 ---
 <!-- moolmeow.com 기술 스택 -->
 <div align="center">
-## moolmeow.com  🐽
+## moolmeow.com  🐽 ##
 
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -41,7 +41,7 @@
 
 <!-- kimvayne.xyz 기술 스택 -->
 <div align="center">
-## kimvayne.xyz 👀
+## kimvayne.xyz 👀 ##
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
