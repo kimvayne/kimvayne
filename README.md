@@ -1,4 +1,4 @@
-## Dev Ops / ML Ops / SRE / Back-End Dev 🐸
+## Dev Ops / ML Ops / SRE / Back-End Dev 🎀
 
 <a href="mailto:nkimtnt@gmail.com">
   <img src="https://img.shields.io/badge/Email-nkimtnt%40gmail.com-5C6BC0?style=for-the-badge&logo=gmail" alt="Email" width="220px"/>
