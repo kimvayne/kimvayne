@@ -1,4 +1,4 @@
-# Kimvayne
+# 👻Kimvayne
 
 <div align="center">
   
@@ -11,9 +11,9 @@
 </div>
 
 ---
-# Overview
+# 🐽Overview
 
-| moolmeow.com | kimvayne.xyz |
+| **moolmeow.com** | **kimvayne.xyz** |
 |--------------|--------------|
 | **Frontend & Backend**: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS | **Cloud & Infra**: Oracle Cloud, Nginx, Shell Script |
 | **Infra & Networking**: MikroTik Router, Cloudflare, Vagrant | **Database**: MariaDB |
