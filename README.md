@@ -1,9 +1,6 @@
-# Kimvayne 👻
-
 <div align="center">
   
-  ## Dev Ops / ML Ops / SRE / Back-End Dev
-  
+  ## Dev Ops / ML Ops / SRE / Back-End Dev 👻
   [![Email](https://img.shields.io/badge/Email-nkimtnt%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nkimtnt@gmail.com)
   [![Website](https://img.shields.io/badge/Website-kimvayne.xyz-orange?style=flat-square&logo=firefox)](https://kimvayne.xyz)
   [![Project](https://img.shields.io/badge/Project-moolmeow.com-red?style=flat-square&logo=github)](https://moolmeow.com)
@@ -11,10 +8,9 @@
 </div>
 
 ---
-# Overview 🐽
-
 <!-- moolmeow.com 기술 스택 -->
-## moolmeow.com
+<div align="center">
+## moolmeow.com  🐽
 
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,9 +36,12 @@
 ![Loki](https://img.shields.io/badge/Loki-F9BF16?style=flat-square&logo=grafana&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 ![Gabia](https://img.shields.io/badge/Gabia-184C94?style=flat-square&logo=internetexplorer&logoColor=white)
+</div>
+
 
 <!-- kimvayne.xyz 기술 스택 -->
-## kimvayne.xyz
+<div align="center">
+## kimvayne.xyz 👀
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -50,3 +49,4 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Gabia](https://img.shields.io/badge/Gabia-184C94?style=flat-square&logo=internetexplorer&logoColor=white)
+</div>
