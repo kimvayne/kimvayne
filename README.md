@@ -12,7 +12,7 @@
 <div align="center">
   <h2>moolmeow.com 🐽</h2>
   
-  Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS
+  <p>Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS</p>
   Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant
   Database & Caching: Mysql, Redis, etcd
   CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible
