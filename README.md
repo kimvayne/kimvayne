@@ -11,25 +11,72 @@
 </div>
 
 ---
+<div align="center">
+  <img src="./moolmeow.png" width="120" alt="moolmeow logo" />
+  <h1>moolmeow.com</h1>
+  <p>🛠️ Fullstack DevOps Playground for real-world systems</p>
+</div>
 
-## 💡 Professional Profile
+---
 
-> 개발은 결국 내가 원하는 것을 만드는 행위.  
-> 나는 혼자서 모든 서비스를 구성해보고 싶어. 왜? 전체를 보는 눈이 있는게 실력이라고 생각하거든.  
-> 그래서 진짜로 혼자 한다.  
+### 🧩 Frontend & Backend
 
-맥미니를 활용해 집에서 물뮤(moolmeow) 서비스를 혼자 만든다.
+- ⚙️ **Languages & Frameworks**: Golang, TypeScript, Next.js, Zustand, Tailwind CSS
+- 🔐 **Auth & Security**: Google OAuth 2.0, PASETO
+- 📡 **Communication**: gRPC
 
+### 🌐 Infrastructure & Networking
 
-    A[Cloudflare] --> B[Vercel]
-    B --> C[Nextjs]
-    C --> D[Mikrotic Router]
-    D --> E[Mac mini]
-    E --> F[Virtual Box VM]
-    F --> G[Kubernetes]
-    G --> H[Pods]
+- 🌍 **Router & Network**: MikroTik Router, Cloudflare
+- 🧱 **Virtualization**: Vagrant
 
+### 🗃️ Database & Caching
 
-이 모든 과정을 이해하고 구현할 수 있으면 어떤 트러블도 슈팅 가능하고 무엇이든 해결 못할까.  
-추후에는 Flutter를 사용하여 앱 제작 + ML/DL로 사용자 맞춤 콘텐츠 제작 계획.  
-이 모든 것을 혼자서 할 수 있을까? → 일단 해봐! → [kimvayne.xyz](https://kimvayne.xyz)에 모든 내용이 담겨 있다고!
+- 🐬 MySQL, 🧠 Redis, 📦 etcd
+
+### ⚙️ CI/CD & DevOps
+
+- 🚀 Jenkins, ArgoCD, Docker Registry
+- 📦 Helm, 🔧 Ansible
+
+### 📊 Monitoring & Observability
+
+- 📈 Grafana, 📉 Prometheus, 📜 Loki
+- 🌐 Istio Service Mesh
+
+### 🌐 Domain
+
+- 🏷️ Registered via [Gabia](https://www.gabia.com)
+
+---
+
+<div align="center">
+  <img src="./cropped-kimvayne_12603_A_Japanese-style_cartoon_illustration_of_a_psych_2f5c877b-9ce6-4ed8-aa42-ccf416386bb1.png" width="120" alt="kimvayne avatar" />
+  <h1>kimvayne.xyz</h1>
+  <p>🌤️ Personal Cloud Lab</p>
+</div>
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+- 🧱 Oracle Cloud Infrastructure (OCI)
+- 🛡️ Nginx, Shell Script
+
+### 🗄️ Database
+
+- 🐱 MariaDB
+
+### 🌐 Networking & Domain
+
+- 🧬 Cloudflare
+- 📛 Domain via Gabia
+
+---
+
+## 📫 Contact
+
+Feel free to reach out or check out the sites:
+
+- 🐾 [moolmeow.com](https://moolmeow.com)
+- ✨ [kimvayne.xyz](https://kimvayne.xyz)
