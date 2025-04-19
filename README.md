@@ -11,72 +11,17 @@
 </div>
 
 ---
-<div align="center">
-  <img src="./moolmeow.png" width="120" alt="moolmeow logo" />
-  <h1>moolmeow.com</h1>
-  <p>🛠️ Fullstack DevOps Playground for real-world systems</p>
-</div>
+moolmeow.com
+Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS
+Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant
+Database & Caching: Mysql, Redis, etcd
+CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible
+Monitoring & Service Mesh: Grafana, Prometheus, Loki,  Istio
+Domain Management: Gabia
 
----
-
-### 🧩 Frontend & Backend
-
-- ⚙️ **Languages & Frameworks**: Golang, TypeScript, Next.js, Zustand, Tailwind CSS
-- 🔐 **Auth & Security**: Google OAuth 2.0, PASETO
-- 📡 **Communication**: gRPC
-
-### 🌐 Infrastructure & Networking
-
-- 🌍 **Router & Network**: MikroTik Router, Cloudflare
-- 🧱 **Virtualization**: Vagrant
-
-### 🗃️ Database & Caching
-
-- 🐬 MySQL, 🧠 Redis, 📦 etcd
-
-### ⚙️ CI/CD & DevOps
-
-- 🚀 Jenkins, ArgoCD, Docker Registry
-- 📦 Helm, 🔧 Ansible
-
-### 📊 Monitoring & Observability
-
-- 📈 Grafana, 📉 Prometheus, 📜 Loki
-- 🌐 Istio Service Mesh
-
-### 🌐 Domain
-
-- 🏷️ Registered via [Gabia](https://www.gabia.com)
-
----
-
-<div align="center">
-  <img src="./cropped-kimvayne_12603_A_Japanese-style_cartoon_illustration_of_a_psych_2f5c877b-9ce6-4ed8-aa42-ccf416386bb1.png" width="120" alt="kimvayne avatar" />
-  <h1>kimvayne.xyz</h1>
-  <p>🌤️ Personal Cloud Lab</p>
-</div>
-
----
-
-### ☁️ Cloud & Infrastructure
-
-- 🧱 Oracle Cloud Infrastructure (OCI)
-- 🛡️ Nginx, Shell Script
-
-### 🗄️ Database
-
-- 🐱 MariaDB
-
-### 🌐 Networking & Domain
-
-- 🧬 Cloudflare
-- 📛 Domain via Gabia
-
----
-
-## 📫 Contact
-
-Feel free to reach out or check out the sites:
-
-- 🐾 [moolmeow.com](https://moolmeow.com)
-- ✨ [kimvayne.xyz](https://kimvayne.xyz)
+ 
+kimvayne.xyz
+Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script
+Database: Maria DB
+Networking: Cloudflare
+Domain Management: Gabia
