@@ -1,4 +1,4 @@
-# 👻Kimvayne
+# Kimvayne 👻
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 </div>
 
 ---
-# 🐽Overview
+# Overview 🐽
 
 | **moolmeow.com** | **kimvayne.xyz** |
 |--------------|--------------|
