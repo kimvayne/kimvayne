@@ -13,11 +13,11 @@
   <h2>moolmeow.com 🐽</h2>
   
   <p>Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS</p>
-  Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant
-  Database & Caching: Mysql, Redis, etcd
-  CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible
-  Monitoring & Service Mesh: Grafana, Prometheus, Loki,  Istio
-  Domain Management: Gabia
+  <p>Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant</p>
+  <p>Database & Caching: Mysql, Redis, etcd</p>
+  <p>CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible</p>
+  <p>Monitoring & Service Mesh: Grafana, Prometheus, Loki,  Istio</p>
+  <p>Domain Management: Gabia</p>
 </div>
 
 
@@ -25,8 +25,8 @@
 <div align="center">
   <h2>kimvayne.xyz 👀</h2>
   
-  Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script
-  Database: Maria DB
-  Networking: Cloudflare
-  Domain Management: Gabia
+  <p>Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script</p>
+  <p>Database: Maria DB</p>
+  <p>Networking: Cloudflare</p>
+  <p>Domain Management: Gabia</p>
 </div>
