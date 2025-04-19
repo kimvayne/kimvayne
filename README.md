@@ -20,7 +20,7 @@
     <p>Domain Management: Gabia</p>
   </div>
   <div style="width: 50%; text-align: center; padding: 10px;">
-    <h2>kimvayne.xyz 🌝</h2>
+    <h2>kimvayne.xyz 🐸</h2>
     <p>Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script</p>
     <p>Database: Maria DB</p>
     <p>Networking: Cloudflare</p>
