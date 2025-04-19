@@ -9,27 +9,21 @@
 
 ---
 <!-- moolmeow.com 기술 스택 -->
-<div align="center">
-  <table width="100%" style="border: none;">
-    <tr>
-      <td align="center" width="50%" style="vertical-align: top;">
-        <h2>moolmeow.com 🐽</h2>
-        
-        <p>Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS</p>
-        <p>Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant</p>
-        <p>Database & Caching: Mysql, Redis, etcd</p>
-        <p>CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible</p>
-        <p>Monitoring & Service Mesh: Grafana, Prometheus, Loki, Istio</p>
-        <p>Domain Management: Gabia</p>
-      </td>
-      <td align="center" width="50%" style="vertical-align: top;">
-        <h2>kimvayne.xyz 👀</h2>
-        
-        <p>Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script</p>
-        <p>Database: Maria DB</p>
-        <p>Networking: Cloudflare</p>
-        <p>Domain Management: Gabia</p>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%; text-align: center; padding: 10px;">
+    <h2>moolmeow.com 🐽</h2>
+    <p>Frontend & Backend: Golang, TypeScript, Next.js, Zustand, PASETO, gRPC, Google OAuth, Tailwind CSS</p>
+    <p>Infrastructure & Networking: MikroTik Router, Cloudflare, Vagrant</p>
+    <p>Database & Caching: Mysql, Redis, etcd</p>
+    <p>CI/CD & DevOps: Jenkins, ArgoCD, Docker Registry, Helm, Ansible</p>
+    <p>Monitoring & Service Mesh: Grafana, Prometheus, Loki, Istio</p>
+    <p>Domain Management: Gabia</p>
+  </div>
+  <div style="width: 50%; text-align: center; padding: 10px;">
+    <h2>kimvayne.xyz 👀</h2>
+    <p>Cloud & Infrastructure: Oracle Cloud, Nginx, Shell Script</p>
+    <p>Database: Maria DB</p>
+    <p>Networking: Cloudflare</p>
+    <p>Domain Management: Gabia</p>
+  </div>
 </div>
